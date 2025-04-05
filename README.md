@@ -61,8 +61,8 @@
 -->
 ### 🌟 Completed projects
 
- 🚀 <a href="" target="_blank">Virtual Mouse with Hand Gestures</a> | AI-powered virtual mouse using OpenCV,mediapipe,PyAutoGUI  
- it is a collaborative project with my friends 
+ 🚀 <a href="https://github.com/bhargav158/forest_fire_detection" target="_blank">Forest_fire_detection</a> | Forest fire detection is based on deep learning 
+ it is a solo project
 ### 🌟 Featured Projects  
 - 🛰 *[AI-Powered Waste Identification](https://github.com/your-repo-link)* | Smart cleanup drones using AI & swarm intelligence    
 
